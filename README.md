@@ -5,4 +5,4 @@ https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7
 
 Hosted at:
 
-https://aleandropresta.github.io/testimonials-grid-section/
+https://aleandropresta.github.io/testimonial-grid-section/
